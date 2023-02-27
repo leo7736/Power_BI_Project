@@ -5,7 +5,7 @@ You can interact with the dashboard by clicking the below link:
 
 Hospitality_domain_dashboard: https://app.powerbi.com/groups/me/reports/cbe95dda-3fd0-4f2b-b5ec-649c9e96a2f6/ReportSection
 
-Sales_Insights :https://app.powerbi.com/groups/me/reports/3d1ba623-71ec-4060-b6de-04597d8e49f0/ReportSection
+Sales_Insights : https://www.novypro.com/project/dashboard-42
 
 HR_employee_status: https://app.powerbi.com/groups/me/reports/c3884606-7778-452b-841d-dfbf9df65cdb/ReportSection
 
