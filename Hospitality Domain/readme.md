@@ -1,19 +1,41 @@
 ## Provide-Insights-in-Hospitality-Domain
 
-Task: 
-To create a detailed dashboard for hospitality domain.
+## Problem Statement: 
+
+Sage hospitality is facing challenges in managing and analyzing its operations data. The hotel management team needs a better way to monitor key performance metrics such as occupancy rates, revenue, guest satisfaction, and other relevant data. The current approach of using manual spreadsheets and disparate systems to manage data is inefficient and prone to errors. The hotel management team is seeking a data-driven solution that can provide real-time insights into hotel operations and enable them to make informed decisions to enhance guest experience, revenue growth, and operational efficiency.
+
+The goal of this project is to develop a Power BI dashboard that can help the hotel management team to:
+
+1.Monitor key performance metrics such as occupancy rates, ADR (average daily rate), RevPAR (revenue per available room), guest satisfaction, and other relevant data.
+
+2.Identify trends and patterns in hotel operations data to optimize operational efficiency and enhance guest experience.
+
+3.Visualize hotel operations data in a meaningful way to provide insights to managers and executives.
+
+
+4.Provide an interactive platform for hotel managers to analyze operations data and track progress over time.
+
+
+5.Enable hotel managers to make data-driven decisions to enhance guest experience, revenue growth, and operational efficiency.
 
 ## Insights:
 
 The dashboard provide detailed performance and revenue statements of the entire firm :
+*Developed 4 Dashboards for Overall Analysis, Revenue Analysis, Booking Analysis, and Rating Analysis.
 
-1. Developed 4 Dashboards for Overall Analysis, Revenue Analysis, Booking Analysis, and Rating Analysis.
-2. The analysis is done on various parameters to give a proper insight from the requirement mentioned by the revenue team.
-3. We need to focus more on Elite customers across the cities as they drive the revenue boost. RT2 Room type should be prioritized more as it has the highest influence on revenue.
-4. 13.59% of revenue realized from Mumbai. June month realized the highest cancellation rate (25.09%), which dipped the Occupancy Rate 0.24% than the average.
+*The analysis is done on various parameters to give a proper insight from the requirement mentioned by the revenue team. 
+
+*We need to focus more on Elite customers across the cities as they drive the revenue boost. RT2 Room type should be prioritized more as it has the highest influence on revenue.
+
+*13.59% of revenue realized from Mumbai. June month realized the highest cancellation rate (25.09%), which dipped the Occupancy Rate 0.24% than the average.
+
+*Need improvement in operational efficiency on weekends.
+
+*various hotels are not adopting dynamic pricing, so they are losing out on potential profit margins.
 
 
-Created following KPI's using DAX -
+### Created following KPI's using DAX :
+
 1. Total Bookings
 2. Total Revenue
 3. Average Rating
@@ -23,9 +45,10 @@ Created following KPI's using DAX -
 7. RevPaR-Revenue per available Rooms
 8. ADR- Average daily rate
 9. DSNR- Daily Sellable Room Nights
+10. DBRN-Daily Booked room Nights
 
 
 
-
+## Dashboard
 You can interact with the dashboard by clicking the below link:
  https://www.novypro.com/project/hospitality-domain-1
