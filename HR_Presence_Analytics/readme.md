@@ -7,13 +7,17 @@ AtliQ Technologies is a company that specializes in software and data solutions.
 ## Methods applied:
 
 1.Data cleaning
+
 2.Data transformation
+
 3.Creating metrics
 
 ## Outcome:
 
 1.By utilizing this dashboard, Pinali will be able to identify the specific days of the month when employees take work from home or sick leaves. This information will be beneficial for her to schedule meetings or events on days when the maximum number of employees will be available.
+
 2.it can assist Pinali in scheduling client project deadlines based on the current percentage of available employees.
 
 ## Dashboard:
+
 link:- https://www.novypro.com/project/dashboard-43
