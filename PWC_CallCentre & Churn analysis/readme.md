@@ -57,4 +57,10 @@ and metrics in the dataset.
  
 #### Customer Retention
  <img src="https://github.com/leo7736/Power_BI_Project/blob/main/PWC_CallCentre%20%26%20Churn%20analysis/images/PWC_Telecom_Marketing%20-%20Power%20BI%20Desktop%2003-Mar-23%207_20_58%20PM%20(2).png" width="800" class="center">
+ 
+ # Shareable Link
+
+You can interact with the report here: 
+
+[View Report](https://www.novypro.com/project/pwc-5)
 
