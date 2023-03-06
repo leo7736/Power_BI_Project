@@ -52,3 +52,6 @@ The dashboard provide detailed performance and revenue statements of the entire 
 ## Dashboard
 You can interact with the dashboard by clicking the below link:
  https://www.novypro.com/project/hospitality-domain-1
+ 
+ ## jira status board:
+https://jiraleo172.atlassian.net/jira/core/projects/HM/board?atlOrigin=eyJpIjoiN2ZhNjRmNjQ4ODEyNDI1NTg3ZGVjMDEzYmJhYWNhMTYiLCJwIjoiaiJ9
