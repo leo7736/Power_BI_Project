@@ -50,8 +50,24 @@ The dashboard provide detailed performance and revenue statements of the entire 
 
 
 ## Dashboard
-You can interact with the dashboard by clicking the below link:
+
+### Home:
+![Home](https://github.com/leo7736/Power_BI_Project/blob/main/Hospitality%20Domain/images/Hospitality_dashboard%20-%20Power%20BI%20Desktop%2007-Mar-23%2010_31_11%20PM%20(2).png)
+
+### Overall analysis
+![Home](https://github.com/leo7736/Power_BI_Project/blob/main/Hospitality%20Domain/images/Hospitality_dashboard%20-%20Power%20BI%20Desktop%2007-Mar-23%2010_31_48%20PM%20(2).png)
+
+### Revenue analysis
+![Home](https://github.com/leo7736/Power_BI_Project/blob/main/Hospitality%20Domain/images/Hospitality_dashboard%20-%20Power%20BI%20Desktop%2007-Mar-23%2010_32_16%20PM%20(2).png)
+
+### Booking analysis
+![Home](https://github.com/leo7736/Power_BI_Project/blob/main/Hospitality%20Domain/images/Hospitality_dashboard%20-%20Power%20BI%20Desktop%2007-Mar-23%2010_32_26%20PM%20(2).png)
+
+### Rating analysis
+![Home](https://github.com/leo7736/Power_BI_Project/blob/main/Hospitality%20Domain/images/Hospitality_dashboard%20-%20Power%20BI%20Desktop%2007-Mar-23%2010_32_49%20PM%20(2).png)
+
+### You can interact with the dashboard by clicking the below link:
  https://www.novypro.com/project/hospitality-domain-1
  
- ## jira status board:
+ jira status board:
 https://jiraleo172.atlassian.net/jira/core/projects/HM/board?atlOrigin=eyJpIjoiN2ZhNjRmNjQ4ODEyNDI1NTg3ZGVjMDEzYmJhYWNhMTYiLCJwIjoiaiJ9
