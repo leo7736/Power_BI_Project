@@ -21,7 +21,7 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 * The retention department is here to get customers back in case of termination 
 * Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk 
 * We  have done customer analysis with Excel: it has always ended in a dead-end
-* We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
+* We would like to know more about our customers: visualized clearly so that it’s self-explanatory for our management
 The Retentions Manager has provided some information, have a look through the resource section.
 
 The purpose of this analysis is to: 
@@ -30,14 +30,14 @@ The purpose of this analysis is to:
 and metrics in the dataset.
 - Based on your findings, recommend suggestions as to what needs to be changed.
 
-### Key Larnings
+### Key Learnings
 
  
 
 
-1. Learned about Visualising customer and agent behaviour.
+1. Learned about Visualizing customer and agent behaviour.
     
-2. Learnt about Customer demographics and insights.
+2. Learned about Customer demographics and insights.
 
 3. Learned to create new chart(quadrant chart).
 
