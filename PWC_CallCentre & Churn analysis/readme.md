@@ -64,6 +64,3 @@ You can interact with the report here:
 
 [View Report](https://www.novypro.com/project/pwc-5)
 
-## jira task status board:
-https://jiraleo172.atlassian.net/jira/core/projects/PCCA/board?atlOrigin=eyJpIjoiYWYxODg3OWI5OGFhNDU0MmIwNzllZWQ4ZmY3ZmE4NTQiLCJwIjoiaiJ9
-
