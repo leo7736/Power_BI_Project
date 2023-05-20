@@ -1,5 +1,5 @@
 # PwC PowerBI in Data Analytics Virtual Case Experience
-<img src ="https://github.com/leo7736/Power_BI_Project/blob/main/PWC_CallCentre%20%26%20Churn%20analysis/images/PWC_Telecom_Marketing%20-%20Power%20BI%20Desktop%2003-Mar-23%207_22_56%20PM%20(2).png">
+<img src ="https://github.com/leo7736/Power_BI_Project/blob/main/PWC_CallCentre%20%26%20Churn%20analysis/images/PwC%20Switzerland_certificate.pdf%20-%20Adobe%20Reader%2020-May-23%204_26_24%20PM.png">
 
 ## Task 1 : Call Centre Trends
 
@@ -50,6 +50,7 @@ and metrics in the dataset.
 
 
 ## Final result 
+<img src ="https://github.com/leo7736/Power_BI_Project/blob/main/PWC_CallCentre%20%26%20Churn%20analysis/images/PWC_Telecom_Marketing%20-%20Power%20BI%20Desktop%2003-Mar-23%207_22_56%20PM%20(2).png">
 
 #### Call Center Solution
 
