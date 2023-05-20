@@ -1,9 +1,9 @@
 # PwC PowerBI in Data Analytics Virtual Case Experience
-<img src ="https://github.com/leo7736/Power_BI_Project/blob/main/PWC_CallCentre%20%26%20Churn%20analysis/images/PwC%20Switzerland_certificate.pdf%20-%20Adobe%20Reader%2020-May-23%204_26_24%20PM.png">
+<img src ="https://github.com/leo7736/Power_BI_Project/blob/main/PWC_CallCentre%20%26%20Churn%20analysis/images/PwC%20Switzerland_certificate.pdf%20-%20Adobe%20Reader%2020-May-23%204_26_24%20PM.png" width="1000" class="center">
 
 ## Task 1 : Call Centre Trends
 
-<img src ="https://github.com/leo7736/Power_BI_Project/blob/main/PWC_CallCentre%20%26%20Churn%20analysis/images/mail.png">
+<img src ="https://github.com/leo7736/Power_BI_Project/blob/main/PWC_CallCentre%20%26%20Churn%20analysis/images/mail.png" width="800" class="center">
 
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative! 
 Possible KPIs include (to get you started, but not limited to):
@@ -50,7 +50,7 @@ and metrics in the dataset.
 
 
 ## Final result 
-<img src ="https://github.com/leo7736/Power_BI_Project/blob/main/PWC_CallCentre%20%26%20Churn%20analysis/images/PWC_Telecom_Marketing%20-%20Power%20BI%20Desktop%2003-Mar-23%207_22_56%20PM%20(2).png">
+<img src ="https://github.com/leo7736/Power_BI_Project/blob/main/PWC_CallCentre%20%26%20Churn%20analysis/images/PWC_Telecom_Marketing%20-%20Power%20BI%20Desktop%2003-Mar-23%207_22_56%20PM%20(2).png" width="800" class="center">
 
 #### Call Center Solution
 
