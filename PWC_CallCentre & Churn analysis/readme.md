@@ -1,6 +1,10 @@
 # PwC PowerBI in Data Analytics Virtual Case Experience
 
 
+You can interact with the report here: 
+
+[View Report](https://www.novypro.com/project/client-phonenow)
+
 ## Task 1 : Call Centre Trends
 
 <img src ="https://github.com/leo7736/Power_BI_Project/blob/main/PWC_CallCentre%20%26%20Churn%20analysis/images/mail.png" width="800" class="center">
