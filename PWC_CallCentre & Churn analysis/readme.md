@@ -1,5 +1,5 @@
 # PwC PowerBI in Data Analytics Virtual Case Experience
-<img src ="https://github.com/leo7736/Power_BI_Project/blob/main/PWC_CallCentre%20%26%20Churn%20analysis/images/PwC%20Switzerland_certificate.pdf%20-%20Adobe%20Reader%2020-May-23%204_26_24%20PM.png" width="1000" class="center">
+
 
 ## Task 1 : Call Centre Trends
 
