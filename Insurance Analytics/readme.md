@@ -54,3 +54,5 @@ For more in-depth information, access to the project files, and a detailed analy
 ## Report Link:
 
 https://www.novypro.com/project/insurance-analytics
+
+![Home](https://github.com/leo7736/Power_BI_Project/blob/main/Insurance%20Analytics/cover_insu.jpg)
