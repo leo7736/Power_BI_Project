@@ -13,6 +13,7 @@ HR_employee_status: https://www.novypro.com/project/hr-domain
 
 HR_Pesence_insights: https://www.novypro.com/project/dashboard-43
 
+Insurance_Analytics: https://www.novypro.com/project/insurance-analytics
 
 personal_financ_Dashboard: https://www.novypro.com/project/dashboard-42
 
