@@ -51,6 +51,17 @@ The project aimed to leverage the capabilities of Power BI, Excel, and MySQL to 
 
 For more in-depth information, access to the project files, and a detailed analysis.
 
+## INSIGHTS
+
+1. After analyzing the insurance data, it was found that high schoolers have a significantly higher accident claim rate compared to other age groups. This suggests that young and inexperienced drivers may be more prone to accidents, highlighting the need for targeted education and safety measures for this demographic.
+
+2. The analysis revealed that a majority of the collisions reported in the insurance data were rear collisions. This indicates that drivers need to pay more attention to maintaining a safe following distance and being aware of their surroundings, as rear-end collisions can often be prevented with proper driving practices.
+
+3. Interestingly, the data showed that the accident rate is notably higher in January. This correlation could be attributed to the fact that January is the coldest month of the year in the North East region. Factors such as icy road conditions and reduced visibility due to weather conditions may contribute to the increased accident rate during this time, emphasizing the importance of cautious driving during winter months.
+
+4. An intriguing finding from the analysis is that the number of insurance claims submitted by females is higher than males. This could be indicative of several factors, such as differences in driving behavior, risk perception, or reporting tendencies. Further investigation into the underlying causes of this gender disparity could provide valuable insights for insurance companies to tailor their policies and outreach efforts accordingly.
+
+
 ## Report Link:
 
 https://www.novypro.com/project/insurance-analytics
