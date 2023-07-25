@@ -24,6 +24,8 @@ AIMS GRID
 
 ## DASHBOARD:
 
-Link: https://www.novypro.com/project/sales-domain
+
 ![sales_insights - Power BI Desktop](https://user-images.githubusercontent.com/123969674/215749590-3b81534e-96ed-47ce-92c9-f9af6a3a0879.png)
 ![sales_insights - Power BI Desktop2](https://user-images.githubusercontent.com/123969674/215749602-2e7b0de7-f2f3-4eb0-a258-c95105b0f5a2.png)
+
+Link: https://www.novypro.com/project/sales-domain
