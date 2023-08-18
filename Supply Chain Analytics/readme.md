@@ -60,4 +60,4 @@ Through this Supply Chain Analytics Power BI project, I've illuminated the path 
 ## Interact with the Dashboard
 
 Experience the power of data visualization and explore our Supply Chain Analytics Power BI dashboard:
-- **[Interact with the Dashboard](#)**
+- **[Interact with the Dashboard](https://www.novypro.com/project/supply-chain-analytics-power-bi-5)**
