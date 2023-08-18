@@ -64,5 +64,5 @@ Throughout the project, I generated the following sample insights from the Ecomm
 ## Interact with the Dashboard
 
 Experience the power of data visualization:
-- **[Interact with the Dashboard](#)**
+- **[Interact with the Dashboard](https://www.novypro.com/project/ecommerce-sales-dashboard-16)**
 
