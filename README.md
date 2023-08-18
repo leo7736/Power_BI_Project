@@ -19,3 +19,4 @@ personal_financ_Dashboard: https://www.novypro.com/project/dashboard-42
 
 Covid Data Analysis: https://www.novypro.com/project/covid-1
 
+Supply Chain Analytics: https://www.novypro.com/project/supply-chain-analytics-power-bi-5
