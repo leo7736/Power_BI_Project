@@ -1,6 +1,10 @@
 <!-- Project Title -->
 <h1 align="center">Ecommerce Sales Dashboard Project 🛍️📊</h1>
 
+<!-- Dashboard -->
+## Dashboard
+![Home](https://github.com/leo7736/Power_BI_Project/blob/main/E-Commerce%20Sales%20Dashboard/Power%20BI%20Desktop%2019-08-23%201.23.54%20AM%20(1).png)
+
 <!-- Problem Statement -->
 ## Problem Statement
 
