@@ -9,7 +9,7 @@ The Sales Director of Atliq Hardware, a firm with multiple branches across India
 
 ## SOLUTION:
 
-Sales director decided to hire a group of analysts to build interactive PowerBI dashboards so that he can track sales to stay informed about the performance of the company and identify any potential issues or areas for improvement.
+The sales director decided to hire a group of analysts to build interactive PowerBI dashboards so that he can track sales to stay informed about the performance of the company and identify any potential issues or areas for improvement.
 
 ## APPROACH:
 
@@ -33,12 +33,22 @@ Link: https://www.novypro.com/project/sales-domain
 ## Overview
 Here are some initial findings:
 
-The database contains 5 tables: customers, date, markets, products, and transactions.
+The database contains 5 tables: customers, dates, markets, products, and transactions.
 
 There are 17 markets, 279 products, and 38 customers.
 
-The observation period is from january 2018 to june 2020.
+The observation period is from January 2018 to June 2020.
 
 The total revenue in 2020 was $ 142,23 Mi, 42% less than 2019, which was $ 336,45 Mi.
+
+## Recommendations
+
+try to give special benefits to Electronics and Excel store_s as they are their most profitable customers.
+
+make their campaign strategy for mid-year as they are showing high sales among other months.
+
+consider making a sales strategy, especially for Lucknow, Bengaluru since it's showing the lowest revenue and negative profit margin, and if possible so as for Surat and Bhubhaneshwar also.
+
+
 
 
