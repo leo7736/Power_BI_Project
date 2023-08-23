@@ -5,7 +5,13 @@ You can interact with the dashboard by clicking the below link:
 
 Hospitality_domain_dashboard: https://www.novypro.com/project/hospitality-domain-1
 
-Sales_Insights :https://www.novypro.com/project/sales-domain
+
+Supply Chain Analytics: https://www.novypro.com/project/supply-chain-analytics-power-bi-5
+
+Market_Sales_Analysis : https://www.novypro.com/project/market-sales-analysis-power-bi-1
+
+
+Ecommerce Analytics: https://www.novypro.com/project/ecommerce-sales-dashboard-16
 
 
 HR_employee_status: https://www.novypro.com/project/hr-domain
@@ -19,4 +25,3 @@ personal_financ_Dashboard: https://www.novypro.com/project/dashboard-42
 
 Covid Data Analysis: https://www.novypro.com/project/covid-1
 
-Supply Chain Analytics: https://www.novypro.com/project/supply-chain-analytics-power-bi-5
