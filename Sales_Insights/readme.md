@@ -1,4 +1,4 @@
-# ATLIQ Hardware Sales Insights Dashboard
+# Hardware Market Sales Insights Dashboard
 
 
 ## PROBLEM STATEMENT:
@@ -29,3 +29,16 @@ AIMS GRID
 ![sales_insights - Power BI Desktop2](https://user-images.githubusercontent.com/123969674/215749602-2e7b0de7-f2f3-4eb0-a258-c95105b0f5a2.png)
 
 Link: https://www.novypro.com/project/sales-domain
+
+## Overview
+Here are some initial findings:
+
+The database contains 5 tables: customers, date, markets, products, and transactions.
+
+There are 17 markets, 279 products, and 38 customers.
+
+The observation period is from january 2018 to june 2020.
+
+The total revenue in 2020 was $ 142,23 Mi, 42% less than 2019, which was $ 336,45 Mi.
+
+
