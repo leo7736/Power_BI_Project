@@ -1,4 +1,10 @@
 # HR-employee-status
+## Dashboard
+![Home](https://github.com/leo7736/Power_BI_Project/blob/main/HR_Analytics/Power%20BI%20_%20Project%20_%20HR%20Employee%20Status%20-%20Google%20Chrome%2025-08-23%208.27.53%20PM.png)
+
+![Detail](https://github.com/leo7736/Power_BI_Project/blob/main/HR_Analytics/Power%20BI%20_%20Project%20_%20HR%20Employee%20Status%20-%20Google%20Chrome%2025-08-23%208.28.03%20PM.png)
+
+![Status](https://github.com/leo7736/Power_BI_Project/blob/main/HR_Analytics/Power%20BI%20_%20Project%20_%20HR%20Employee%20Status%20-%20Google%20Chrome%2025-08-23%208.28.16%20PM.png)
 
 ## Problem Statement:
 
