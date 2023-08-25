@@ -6,6 +6,9 @@
   Welcome to the world of supply chain optimization through data-driven insights! Dive into our Supply Chain Analytics Power BI project.
 </p>
 
+## Dashboard
+![Home](https://github.com/leo7736/Power_BI_Project/blob/main/Supply%20Chain%20Analytics/sc.png)
+
 <!-- Problem Statement -->
 ## Problem Statement
 
