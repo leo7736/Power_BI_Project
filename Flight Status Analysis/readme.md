@@ -43,5 +43,5 @@ The primary objectives of this project are to gain insights into flight statuses
 
 
 ### You can interact with the dashboard by clicking the below link:
- https://www.novypro.com/project/telecom-customer-churn-analysis-1
+ https://www.novypro.com/project/flight-status-and-air-traffic-analysis
 
