@@ -29,7 +29,7 @@ This project focuses on analyzing telecom customer churn, where each row represe
 |![page2](https://github.com/leo7736/Power_BI_Project/blob/main/Customer%20Churn%20Analysis/Power%20BI%20Desktop%2012-09-23%202.23.28%20AM.png)|
 
 ### You can interact with the dashboard by clicking the below link:
- https://www.novypro.com/project/telecom-customer-churn-analysis-1
+ https://www.novypro.com/project/telecom-customer-churn-analysis-power-bi-3
 
 ## Recommendations to Reduce Customer Churn
 
